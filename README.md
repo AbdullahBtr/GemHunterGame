@@ -1,2 +1,2 @@
 # GemHunterGame
-Java native game
+2d Java game from scratch
